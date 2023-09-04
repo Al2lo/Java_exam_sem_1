@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="bsh-2.0b6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../library/bsh-2.0b6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../library/jcommander-1.72.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
